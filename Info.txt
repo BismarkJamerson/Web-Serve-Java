@@ -1,0 +1,6 @@
+*.Jar's -> Gson-2.2.2
+	   Javax.ws.rs.api-2.1.1
+	   Mysql-connector-java-5.1.47
+*JDK 1.8
+*GlassFish Server
+	
